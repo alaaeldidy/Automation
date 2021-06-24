@@ -1,0 +1,10 @@
+pages\Athenticationpage.class
+pages\Addtocartpage.class
+pages\Hoverdressespage.class
+pages\Searchpage.class
+pages\Signinpage.class
+pages\Homepage.class
+pages\Registerpage.class
+pages\Checkoutpage.class
+pages\Pagebase.class
+pages\productcartpage.class

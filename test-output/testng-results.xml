@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="70777" started-at="2021-06-24T20:48:48Z" finished-at="2021-06-24T20:49:59Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="70777" started-at="2021-06-24T20:48:48Z" finished-at="2021-06-24T20:49:59Z">
+      <class name="tests.Registertest">
+        <test-method status="PASS" signature="useropenurl(java.lang.String)[pri:0, instance:tests.Registertest@7d9d1a19]" name="useropenurl" is-config="true" duration-ms="17304" started-at="2021-06-24T20:48:48Z" finished-at="2021-06-24T20:49:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useropenurl -->
+        <test-method status="PASS" signature="userregistertest()[pri:0, instance:tests.Registertest@7d9d1a19]" name="userregistertest" duration-ms="52740" started-at="2021-06-24T20:49:05Z" finished-at="2021-06-24T20:49:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userregistertest -->
+        <test-method status="PASS" signature="takescreenshot(org.testng.ITestResult)[pri:0, instance:tests.Registertest@7d9d1a19]" name="takescreenshot" is-config="true" duration-ms="1" started-at="2021-06-24T20:49:58Z" finished-at="2021-06-24T20:49:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userregistertest status=SUCCESS method=Registertest.userregistertest()[pri:0, instance:tests.Registertest@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takescreenshot -->
+        <test-method status="PASS" signature="usercloseurl()[pri:0, instance:tests.Registertest@7d9d1a19]" name="usercloseurl" is-config="true" duration-ms="697" started-at="2021-06-24T20:49:58Z" finished-at="2021-06-24T20:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usercloseurl -->
+      </class> <!-- tests.Registertest -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

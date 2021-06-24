@@ -1,0 +1,9 @@
+tests\Enddtoendtest.class
+tests\productcartpagetest.class
+tests\Registertest.class
+tests\Searchtest.class
+data\Readpropertiesfile.class
+tests\Hoverdressestest.class
+tests\Testbase.class
+tests\Signintest.class
+tests\Addtocarttest.class
